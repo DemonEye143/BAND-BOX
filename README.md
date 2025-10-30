@@ -21,8 +21,8 @@ pkg install python
 pkg install git
 pip install colorama 
 pip install python-dotenv
-git clone https://github.com/CRYPTOLORD25/Crypto-banning-tools.git
-cd Crypto-banning-tools
+git clone https://github.com/DemonEye143/BAND-BOX.git
+cd BAND-BOX
 python ban.py
 ```
 
@@ -31,13 +31,13 @@ python ban.py
 ```bash
 sudo apt update && sudo apt install python3 python3-pip git
 pip3 install colorama python-dotenv
-git clone https://github.com/CRYPTOLORD25/Crypto-banning-tools.git
-cd Crypto-bannig-tools
+git clone https://github.com/DemonEye143/BAND-BOX.git
+cd BAND-BOX
 python3 ban.py
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=0A7BE1&center=true&vCenter=true&width=600&lines=Crypto+Lord+Banning+Tools;Coded+by+Crypto+Lord+himself" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=0A7BE1&center=true&vCenter=true&width=600&lines=Crypto+Lord+Banning+Tools;Coded+by+𝘿𝙀𝙈𝙊𝙉_𝙀𝙔𝙀™+𝐋𝐮𝐜𝐢𝐟𝐞𝐫....!!🌈™+himself" alt="Typing SVG" />
 </p>
 
 ---
