@@ -1,12 +1,12 @@
 
-# Crypto Lord Ban Tool
+# LUCIFER BANING SYSTEM 🏆 
 
 This is a Python CLI tool that allows you to simulate banning a phone number (permanently or temporarily) Using the greatest Command easily on termux 
 
 
 ## WhatsApp Ban  Targets
 
-This Tools Don't Work most Time but try it multiple times and it will work and please is for education purpose crypto Lord doesn't Support all of that thank you. 
+This Tools Don't Work most Time but try it multiple times and it will work and please is for education purpose Lucifer doesn't Support all of that thank you. 
 
 ## 🔒 Setup Instructions
 
@@ -37,7 +37,7 @@ python3 ban.py
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=0A7BE1&center=true&vCenter=true&width=600&lines=Crypto+Lord+Banning+Tools;Coded+by+𝘿𝙀𝙈𝙊𝙉_𝙀𝙔𝙀™+𝐋𝐮𝐜𝐢𝐟𝐞𝐫....!!🌈™+himself" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=0A7BE1&center=true&vCenter=true&width=600&lines=𝐋𝐮𝐜𝐢𝐟𝐞𝐫+Banning+Tools;Coded+by+𝐋𝐮𝐜𝐢𝐟𝐞𝐫+himself" alt="Typing SVG" />
 </p>
 
 ---
